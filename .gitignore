@@ -40,3 +40,7 @@ packages/
 # Resultados de pruebas
 [Tt]est[Rr]esult*/
 TestResults/
+
+# Archivos generados por el diseñador
+**/obj/
+**/bin/
